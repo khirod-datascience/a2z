@@ -1,1 +1,1 @@
-web: gunicorn a2zapp.wsgi
+web: gunicorn a2z.wsgi
