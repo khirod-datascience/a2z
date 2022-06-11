@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-fsst=p^(r1)x)=3px-np6=wv1-5=ylug@d@egq+-jwvhjx4)%!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['a2zdaily.herokuapp.com']
 
 
 # Application definition
